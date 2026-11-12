@@ -1,0 +1,13 @@
+# Dados gerados durante a execução
+loja.txt
+loja.csv
+temp.txt
+
+# Executáveis e objetos compilados
+*.exe
+*.o
+*.out
+loja
+
+# Configurações locais
+.vscode/
